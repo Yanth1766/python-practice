@@ -1,6 +1,6 @@
 name = input("What is your name? ")
 
-print("Hello," name)
+print("Hello,", name)
 print("Welcome to my Python journey!")
 
 age = int(input("How old are you? "))
